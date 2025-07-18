@@ -74,6 +74,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://github.com/Aryan181206/Aryan181206/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
 
 ### 🔝 Top Contributed Repos:
 <p align="center">
